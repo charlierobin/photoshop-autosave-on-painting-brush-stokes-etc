@@ -4,7 +4,7 @@
 
 This was the next experimental iteration on the script that started life as part of this idea here…
 
-[https://github.com/charlierobin/cinema-4d-bitmap-files-texture-auto-reloader-with-photoshop-save-all-plugin/tree/main/photoshop/app folder ▶︎ Presets ▶︎ Scripts](https://github.com/charlierobin/cinema-4d-bitmap-files-texture-auto-reloader-with-photoshop-save-all-plugin/tree/main/photoshop/app folder ▶︎ Presets ▶︎ Scripts)
+https://github.com/charlierobin/cinema-4d-bitmap-files-texture-auto-reloader-with-photoshop-save-all-plugin
  
 In that project, users painted (or whatever) in Photoshop, hit `command S`, and all their open documents were saved (on the assumption that everything they had open and were working on was linked to the same Cinema 4D project).
 
