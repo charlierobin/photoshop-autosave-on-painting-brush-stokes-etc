@@ -12,9 +12,9 @@ The Cinema 4D “files watcher” plug in then detected those file changes, and 
 
 https://github.com/charlierobin/cinema-4d-bitmap-files-texture-auto-reloader-with-photoshop-save-all-plugin/tree/main/TextureAutoReload
 
-But as it started to get used in actual production, some users wanted something a little different: no "save all", but saving automatically as they painted. 
+But as it started to get used in actual production, some users wanted something a little different: no "save all", but instead: saving automatically as they painted.
 
-(And of course, as soon as I was using it with the paintbrush tool, I found that I wanted it to work with a whole lot of other stuff.)
+(And of course, as soon as I started using it myself with the paintbrush tool, I found that I wanted it to work with a whole lot of other stuff.)
 
 This was the first end result of all those ideas.
 
